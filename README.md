@@ -2,14 +2,19 @@
 
 # Extract Transform Load
 
-* ## Softwares 
+![download](https://user-images.githubusercontent.com/34093998/87681277-f0abc700-c797-11ea-92b9-8a12ed74b344.png)
+
+* # Softwares 
+
+![microsoft_logo_56x56](https://user-images.githubusercontent.com/34093998/87681206-d671e900-c797-11ea-8585-17781dfc0287.png)
+![download (1)](https://user-images.githubusercontent.com/34093998/87681207-d70a7f80-c797-11ea-8f85-e84bba4e1210.jpg)
 
 * Microsoft® SQL Server® 2014 Express (https://www.microsoft.com/en-pk/download/details.aspx?id=42299)
 * SSDT-BI (https://www.microsoft.com/en-pk/download/details.aspx?id=42313)
 
 # Steps to Remember
 
-1. Open SSDT for Visual Studio 2013, Create New Project and Select "Integration Service Project". Click * OK
+1. Open SSDT for Visual Studio 2013, Create New Project and Select "Integration Service Project". Click OK
 2. In the SSIS "Control Flow" Drag and Drop "Data Flow Task", rename it(if you want) then double click on it.
 3. In the Data FLow Task Drag and Drop "Flat File Source" 
 4. Double Click on it. A new window will appear. Click New->Browse Select your .csv file and open (Text Qualifier = ") and then Click OK
