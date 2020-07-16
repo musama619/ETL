@@ -6,8 +6,7 @@
 
 * # Softwares 
 
-![download (1)](https://user-images.githubusercontent.com/34093998/87681543-323c7200-c798-11ea-8753-bce394fd83e1.png)
-
+![0](https://user-images.githubusercontent.com/34093998/87681669-55ffb800-c798-11ea-9123-c56b16b0cb31.png)
 ![download (1)](https://user-images.githubusercontent.com/34093998/87681207-d70a7f80-c797-11ea-8f85-e84bba4e1210.jpg)
 
 * Microsoft® SQL Server® 2014 Express (https://www.microsoft.com/en-pk/download/details.aspx?id=42299)
